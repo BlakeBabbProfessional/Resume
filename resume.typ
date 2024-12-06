@@ -72,8 +72,8 @@ To get a foothold in the software development industry
 
 == Skills
 #l
-#let skills = ([Java], [Python], [Javascript], [C++], [C\#], [SQL], [Node.js],
-  [git], [SVN], [Scrum], [Agile])
+#let skills = ([Java], [Python], [JavaScript], [C++], [C\#], [SQL], [Node.js],
+  [React], [git], [SVN], [Scrum], [Agile], [AWS])
 #for s in skills [
   #box(
     inset: 3pt,
