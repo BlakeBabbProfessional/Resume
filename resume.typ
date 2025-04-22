@@ -64,11 +64,9 @@ To get a foothold in the software development industry
 == Community Involvement
 #l
 *Actor, Lead Sound Designer* – _Play for children, ‘Cry Wolf’_ #h(1fr) 2019-20
-- Worked as part of a small cast and crew to produce, then perform the shows for
-  local elementary schools
-- Performed in-character over numerous performances in front of hundreds of
-  elementary schoolers
-- Directly involved in decision making
+- Worked as part of a small cast and crew to produce and perform theatrical
+  performances for local elementary schools
+- Managed sound equipment for a traveling theatre troupe
 
 == Skills
 #l
