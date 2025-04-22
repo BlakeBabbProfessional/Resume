@@ -31,7 +31,7 @@ _Bend, OR_
 
 == Objective
 #l
-To get a foothold in the software development industry
+Recent Computer Science graduate seeking to work with in-depth computer systems
 
 == Education
 #l
@@ -45,12 +45,12 @@ To get a foothold in the software development industry
 - Developed improvements to the software of a precision fastening system where
   torque, total rotation and other attributes are evaluated, reported and
   stored; used in aerospace, automotive, power and agricultural industries
-- Committed new features and improvements for the fastening system
 - Contributed to Agile meetings with experienced electrical engineers
-- Fixed over a dozen bugs in C++ and Python code bases
 
-//*Auditorium Tech* – _Bend LaPine Schools_ #h(1fr) 2019
-//- Maintained and diagnosed issues with actor microphones during theatrical performances
+*Auditorium Tech* – _Bend LaPine Schools_ #h(1fr) 2019
+- Set up and tested sound equipment for a large high school auditorium
+- Maintained and diagnosed issues with actor microphones over dozens of
+  theatrical performances
 
 == Personal Projects
 #l
@@ -59,21 +59,18 @@ To get a foothold in the software development industry
   under time pressure and with fierce competition
 - Produced ten games released on the game hosting platform Itch.io as part of
   various game jams working alone or in a team
-- Used the GameMaker game engine and a custom engine written in Java
 
 == Community Involvement
 #l
 *Actor, Lead Sound Designer* – _Play for children, ‘Cry Wolf’_ #h(1fr) 2019-20
-- Worked as part of a small cast and crew to produce, then perform the shows for
-  local elementary schools
-- Performed in-character over numerous performances in front of hundreds of
-  elementary schoolers
-- Directly involved in decision making
+- Worked as part of a small cast and crew to produce and perform theatrical
+  performances for local elementary schools
+- Managed sound equipment for a traveling theatre troupe
 
 == Skills
 #l
-#let skills = ([Java], [Python], [JavaScript], [C++], [C\#], [SQL], [Node.js],
-  [React], [git], [SVN], [Scrum], [Agile], [AWS], [Documentation], [Docker])
+#let skills = ([Scrum], [Agile], [AWS], [Documentation], [Sound Equipment],
+  [macOS], [Windows], [Linux], [Software Automation])
 #for s in skills [
   #box(
     inset: 3pt,
