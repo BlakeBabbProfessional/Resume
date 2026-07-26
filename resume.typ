@@ -31,7 +31,7 @@ _Bend, OR_
 
 == Objective
 #l
-To get a foothold in the software development industry
+To gain a foothold in the software development industry
 
 == Education
 #l
@@ -41,13 +41,18 @@ To get a foothold in the software development industry
 
 == Work Experience
 #l
+*Technology Coordinator* - _High Desert Museum_ #h(1fr) 2025-2026
+- Worked with professional users to assist with everyday technology issues
+- Maintained and upgraded UniFi network infrastructure
+- Supported the mission of a Smithsonian affiliate cultural institution
+
 *Electrical Engineering Intern* – _Aimco/AcraDyne_ #h(1fr) Summer 2022
-- Developed improvements to the software of a precision fastening system where
+- Developed improvements to the software of a precision fastening system/* where
   torque, total rotation and other attributes are evaluated, reported and
-  stored; used in aerospace, automotive, power and agricultural industries
+  stored;*/ used in aerospace, automotive, power and agricultural industries
 - Committed new features and improvements for the fastening system
 - Contributed to Agile meetings with experienced electrical engineers
-- Fixed over a dozen bugs in C++ and Python code bases
+//- Fixed over a dozen bugs in C++ and Python code bases
 
 //*Auditorium Tech* – _Bend LaPine Schools_ #h(1fr) 2019
 //- Maintained and diagnosed issues with actor microphones during theatrical performances
