@@ -35,7 +35,7 @@ To gain a foothold in the software development industry
 
 == Education
 #l
-*Bachelor of Science* - *Computer Science Major* – _Oregon State University_ #h(1fr) 2024
+*Bachelor of Science* - *Computer Science Major* – _Oregon State University_ #h(1fr) 2020-24
 - 3.49 final GPA
 - Graduated in June of 2024
 
