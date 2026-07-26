@@ -41,7 +41,7 @@ To gain a foothold in the software development industry
 
 == Work Experience
 #l
-*Technology Coordinator* - _High Desert Museum_ #h(1fr) 2025-2026
+*Technology Coordinator* - _High Desert Museum_ #h(1fr) 2025-26
 - Worked with professional users to assist with everyday technology issues
 - Maintained and upgraded UniFi network infrastructure
 - Supported the mission of a Smithsonian affiliate cultural institution
