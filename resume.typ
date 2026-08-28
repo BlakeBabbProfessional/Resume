@@ -37,20 +37,24 @@ To gain a foothold in the software development industry
 #l
 *Bachelor of Science* - *Computer Science Major* – _Oregon State University_ #h(1fr) 2020-24
 - 3.49 final GPA
-- Graduated in June of 2024
+*P-DAQ - Senior Capstone Project* - _Oregon State University_ #h(1fr) 2023-24
+- A prototype data logger designed for amateur aerospace and automotive
+  enthusiasts
+- Worked closely with a Dynamics and Simulation engineer formerly employed at
+  SpaceX
+- Built in full-stack Rust from the systems level to a web-based interface
 
 == Work Experience
 #l
-*Technology Coordinator* - _High Desert Museum_ #h(1fr) 2025-26
+*Technology Coordinator* - _High Desert Museum_ #h(1fr) 2025-
 - Worked with professional users to assist with everyday technology issues
 - Maintained and upgraded UniFi network infrastructure
 - Supported the mission of a Smithsonian affiliate cultural institution
 
 *Electrical Engineering Intern* – _Aimco/AcraDyne_ #h(1fr) Summer 2022
-- Developed improvements to the software of a precision fastening system/* where
+- Developed new features and improvements to the software of a precision fastening system/* where
   torque, total rotation and other attributes are evaluated, reported and
   stored;*/ used in aerospace, automotive, power and agricultural industries
-- Committed new features and improvements for the fastening system
 - Contributed to Agile meetings with experienced electrical engineers
 //- Fixed over a dozen bugs in C++ and Python code bases
 
@@ -59,24 +63,25 @@ To gain a foothold in the software development industry
 
 == Personal Projects
 #l
-*Solo Game Developer, Team Leader, Programmer* – _Various Game Jams_ #h(1fr) 2021-24
+*Solo Game Developer, Team Leader, Programmer* – _Various Game Jams_ #h(1fr) 2021-
 - Placed first overall in a video game development competition, “game jam”,
   under time pressure and with fierce competition
-- Produced ten games released on the game hosting platform Itch.io as part of
-  various game jams working alone or in a team
+- Produced ten games released on the hosting platform Itch.io as part of
+  various game jams/* working alone or in a team*/
 - Used the GameMaker game engine and a custom engine written in Java
 
 == Community Involvement
 #l
 *Actor, Lead Sound Designer* – _Play for children, ‘Cry Wolf’_ #h(1fr) 2019-20
 - Worked as part of a small cast and crew to produce and perform theatrical
-  performances for local elementary schools
+  performances/* for local elementary schools*/
 - Managed sound equipment for a traveling theatre troupe
 
 == Skills
 #l
 #let skills = ([Java], [Python], [JavaScript], [C++], [C\#], [SQL], [Node.js],
-  [React], [git], [SVN], [Scrum], [Agile], [AWS], [Documentation], [Docker])
+  [React], [git], [SVN], [Scrum], [Agile], [AWS], [Documentation], [Docker],
+  [Computer Networking], [UniFi], [DNS management], [AV tech])
 #for s in skills [
   #box(
     inset: 3pt,
